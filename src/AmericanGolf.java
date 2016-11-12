@@ -19,7 +19,7 @@ driver= new FirefoxDriver();
 		driver.manage().window().maximize();
 		
 		//driver.findElement(By.xpath("//*[@id='secondary']/div[1]/div[3]/h3/span")).click();
-		
+		//testing file
 	/*	WebElement web = driver.findElement(By.xpath(".//*[@id='secondary']/div[1]/div[3]/div[1]/ul/li[i]/a/span[2]"));
 		
 		String get= web.getText();
